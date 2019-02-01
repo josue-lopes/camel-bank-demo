@@ -46,4 +46,3 @@ Then create the quickstart template:
     oc create -f https://raw.githubusercontent.com/jboss-fuse/application-templates/GA/quickstarts/spring-boot-camel-template.json
 
 Now when you use "Add to Project" button in the OpenShift console, you should see a template for this quickstart. 
-
