@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<payload>
+  <action value="transfer"/>
+  <amount>50</amount>
+  <addAccount>200</addAccount>
+  <subAccount>100</subAccount>
+</payload>

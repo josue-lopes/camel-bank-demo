@@ -1,0 +1,5 @@
+org/mycompany/process/SubtractProcess.class
+org/mycompany/process/AddProcess.class
+org/mycompany/Application.class
+org/mycompany/routes/MainRoute.class
+org/mycompany/dataObjects/PayloadObject.class

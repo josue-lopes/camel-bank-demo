@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<payload>
+  <action value="deposit"/>
+  <amount>50</amount>
+  <addAccount>100</addAccount>
+  <subAccount>0</subAccount>
+</payload>
